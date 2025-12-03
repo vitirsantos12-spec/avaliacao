@@ -1,0 +1,1 @@
+Fila (Queue): Uma estrutura de dados na qual os elementos são processados na ordem em que chegam (primeiro a entrar, primeiro a sair - FIFO, ou First-In-First-Out). As filas são comumente usadas em sistemas para gerenciar tarefas, mensagens entre aplicações e garantir a ordem das operações.
