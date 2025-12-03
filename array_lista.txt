@@ -1,0 +1,1 @@
+ ArrayList é estrutura de dados dinâmica usada em linguagens de programação como Java para armazenar coleções de objetos.
